@@ -4,7 +4,7 @@
     <list default="true" id="26ca673e-0adb-4b8b-aeee-347f3c4823f4" name="Default" comment="" />
     <ignored path="hello_world.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Main.java" changelist="26ca673e-0adb-4b8b-aeee-347f3c4823f4" time="1384481256730" ignored="false" />
+    <file path="/Main.java" changelist="26ca673e-0adb-4b8b-aeee-347f3c4823f4" time="1384482771525" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="39" selection-start="127" selection-end="127" vertical-scroll-proportion="0.109970674">
+            <state line="8" column="57" selection-start="305" selection-end="305" vertical-scroll-proportion="0.17595308">
               <folding />
             </state>
           </provider>
@@ -289,7 +289,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="39" selection-start="127" selection-end="127" vertical-scroll-proportion="0.109970674">
+        <state line="8" column="57" selection-start="305" selection-end="305" vertical-scroll-proportion="0.17595308">
           <folding />
         </state>
       </provider>
